@@ -1,1 +1,1 @@
-# golf-ball-ims
+# Golf Ball Inventory Management System
